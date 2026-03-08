@@ -18,7 +18,7 @@ This repository contains Docker configurations and scripts for deploying the PQR
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Syslogine-dev/PQR-Docker.git
+git clone https://github.com/Evaemon/PQR-Docker.git
 cd PQR-Docker
 ```
 
