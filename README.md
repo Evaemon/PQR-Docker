@@ -61,8 +61,8 @@ bash scripts/build_containers.sh
 ```
 
 This script automatically pulls the required code from:
-- **PQR-Tunnel**: [https://github.com/Syslogine-dev/PQR-Tunnel](https://github.com/Syslogine-dev/PQR-Tunnel)
-- **PQR-KeyCrafter**: [https://github.com/Syslogine-dev/PQR-KeyCrafter](https://github.com/Syslogine-dev/PQR-KeyCrafter)
+- **PQR-Tunnel**: [https://github.com/Evaemon/PQR-Tunnel](https://github.com/Evaemon/PQR-Tunnel)
+- **PQR-KeyCrafter**: [https://github.com/Evaemon/PQR-KeyCrafter](https://github.com/Evaemon/PQR-KeyCrafter)
 
 ### 5. Start the Containers
 
@@ -167,9 +167,9 @@ PQR-Docker/
 ## Project Dependencies
 
 The Docker containers rely on the following projects:
-- **PQR-Tunnel**: [https://github.com/Syslogine-dev/PQR-Tunnel](https://github.com/Syslogine-dev/PQR-Tunnel)  
+- **PQR-Tunnel**: [https://github.com/Evaemon/PQR-Tunnel](https://github.com/Evaemon/PQR-Tunnel)  
   Provides client and server scripts for setting up quantum-safe SSH tunnels.
-- **PQR-KeyCrafter**: [https://github.com/Syslogine-dev/PQR-KeyCrafter](https://github.com/Syslogine-dev/PQR-KeyCrafter)  
+- **PQR-KeyCrafter**: [https://github.com/Evaemon/PQR-KeyCrafter](https://github.com/Evaemon/PQR-KeyCrafter)  
   Provides tools for generating quantum-safe keys.
 
 Ensure these repositories remain updated to avoid issues during the container build process.
@@ -184,5 +184,12 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+Proprietary - All Rights Reserved
 
+This project is licensed under the Trednets Enterprise Software License (TESL) v1.2.  
+All rights, title, and interest in the software remain exclusively with Trednets B.V.
+
+See the included `LICENSE` file for the repository license notice.  
+For the full and current license text, visit: https://trednets.com/license
+
+Third-party components and dependencies remain subject to their respective original license terms.
